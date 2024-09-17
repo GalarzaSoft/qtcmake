@@ -1,0 +1,9 @@
+# ninja log v6
+7	593	7482479499995452	qtcmake_autogen/timestamp	3c4b4f0a4d1c5038
+7	593	7482479499995452	qtcmake_autogen/mocs_compilation.cpp	3c4b4f0a4d1c5038
+7	593	7482479499995452	C:/Users/hewha/OneDrive/Documents/Projects/qtcmake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtcmake_autogen/timestamp	3c4b4f0a4d1c5038
+7	593	7482479499995452	C:/Users/hewha/OneDrive/Documents/Projects/qtcmake/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qtcmake_autogen/mocs_compilation.cpp	3c4b4f0a4d1c5038
+598	2003	7482479500852172	CMakeFiles/qtcmake.dir/qtcmake_autogen/mocs_compilation.cpp.obj	1333d6a01d806cd1
+604	2090	7482479500903214	CMakeFiles/qtcmake.dir/main.cpp.obj	a8a131ec98f37810
+609	2133	7482479500953205	CMakeFiles/qtcmake.dir/mainwindow.cpp.obj	b20c2175eb9205c7
+2133	2335	7482479516194779	qtcmake.exe	224efbec8de71aa6
